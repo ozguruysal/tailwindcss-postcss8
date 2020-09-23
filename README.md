@@ -1,4 +1,4 @@
-# Tailwindcss PostCSS compatibility issue
+# Tailwindcss PostCSS 8 compatibility issue
 
 Here are the steps to reproduce the issue:
 
